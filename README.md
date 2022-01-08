@@ -24,7 +24,6 @@ Favoritos:
 
 ## 🇬🇧/🇺🇸 Hello!
 
-_Coming soon... meanwhile, you can always use the translator_
 My name is Luis Miguel Guirado Bautista. Im student of Computer Engineering at Granada University.
 I choosed the Intelligent Systems and Computing branch.
 
