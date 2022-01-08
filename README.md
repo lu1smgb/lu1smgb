@@ -6,6 +6,7 @@
 ## 🇪🇸 Hola!
 
 Me llamo Luis Miguel Guirado Bautista y soy estudiante de Ingeniería Informática en la Universidad de Granada.
+Llevo estudiando en la univesidad durante 3 años.
 Me he decantado por la rama de Computación y Sistemas Inteligentes.
 
 Utilizo:
@@ -24,8 +25,9 @@ Favoritos:
 
 ## 🇬🇧/🇺🇸 Hello!
 
-My name is Luis Miguel Guirado Bautista. I'm student of Computer Engineering from Granada University.
-I choosed the Intelligent Systems and Computing branch.
+My name is Luis Miguel Guirado Bautista. I'm student of Computer Engineering at Granada University.
+I have been studying at the university for 3 years.
+I have chosen the Intelligent Systems and Computing branch.
 
 I use:
  - OS: [Manjaro 21 Qonos][Manjaro] and Windows 10
