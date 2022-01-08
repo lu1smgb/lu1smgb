@@ -24,12 +24,12 @@ Favoritos:
 
 ## 🇬🇧/🇺🇸 Hello!
 
-My name is Luis Miguel Guirado Bautista. Im student of Computer Engineering at Granada University.
+My name is Luis Miguel Guirado Bautista. I'm student of Computer Engineering from Granada University.
 I choosed the Intelligent Systems and Computing branch.
 
 I use:
  - OS: [Manjaro 21 Qonos][Manjaro] and Windows 10
- - Window Maganer: [Plasma KDE][KDE Plasma ES] o [Qtile]
+ - Window Manager: [Plasma KDE][KDE Plasma ES] o [Qtile]
  - Editor: [VSCode]
  - Languages: C, C++, Java, Python, ...
 
