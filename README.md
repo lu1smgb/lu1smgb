@@ -6,7 +6,7 @@
 [OMZ]: https://ohmyz.sh/
 [Starship]: https://starship.rs/es-es/
 
-## Bienvenid@ a mi perfil!
+# Bienvenid@ a mi perfil!
 
 Me llamo Luis Miguel Guirado Bautista y soy estudiante de Ingeniería Informática en la Universidad de Granada.
 Llevo estudiando en la univesidad durante 3 años.
