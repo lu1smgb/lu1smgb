@@ -10,7 +10,7 @@
 
 Me llamo Luis Miguel, tengo 20 años y soy estudiante de Ingeniería Informática en la Universidad de Granada.
 Llevo estudiando en la universidad durante 3 años.
-Me he decantado por la rama de Computación y Sistemas Inteligentes.
+Estoy en la rama de Computación y Sistemas Inteligentes (que Dios se apiade de mi)
 
 Utilizo:
  - SO: [Manjaro 21 Qonos][Manjaro] y Windows 10
@@ -18,12 +18,4 @@ Utilizo:
  - Shell: Zsh + [Oh My Zsh][OMZ] + [Starship] prompt
  - Gestor de ventanas: [Plasma KDE][KDE Plasma ES] o [Qtile]
  - Editor: [VSCode]
- - Lenguajes: C, C++, Java, Python, ...
-
-También juego a videojuegos.
-Favoritos:
- - Minecraft
- - TES V: Skyrim
- - The Legend Of Zelda
- - CS:GO
- - Subnautica
+ - Lenguajes que uso: C, C++, Python
