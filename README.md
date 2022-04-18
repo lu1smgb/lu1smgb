@@ -18,4 +18,4 @@ Utilizo:
  - Shell: Zsh + [Oh My Zsh][OMZ] + [Starship] prompt
  - Gestor de ventanas: [Plasma KDE][KDE Plasma ES] o [Qtile]
  - Editor: [VSCode]
- - Lenguajes que uso: C, C++, Python
+ - Lenguajes que uso: C, C++, Python, LaTeX, CLIPS
