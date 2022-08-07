@@ -5,7 +5,7 @@
 [Kitty]: https://sw.kovidgoyal.net/kitty/
 [Starship]: https://starship.rs/es-es/
 [Fish]: https://fishshell.com/
-[Zsh]: 
+[Zsh]: https://zsh.org
 
 # README.md
 
