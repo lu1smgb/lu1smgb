@@ -11,8 +11,8 @@
 
  - SO: [Manjaro 21][Manjaro] / Windows 10
  - Terminal: [Kitty]
- - Shell: [Fish] / [Zsh]
+ - Shell: [Zsh]
  - Prompt: [Starship]
- - Gestor de ventanas: [Plasma KDE][KDE Plasma ES] o ~~[Qtile]~~
- - Editor: [VSCode]
- - Lenguajes que uso: C++, Python
+ - Gestor de ventanas: [Plasma KDE][KDE Plasma ES]
+ - Editor: [Visual Studio Code][VSCode]
+ - Lenguajes que uso: Java, C++, Python
