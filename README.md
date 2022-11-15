@@ -9,10 +9,7 @@
 
 # README.md
 
- - SO: [Manjaro 21][Manjaro] / Windows 10
- - Terminal: [Kitty]
- - Shell: [Zsh]
- - Prompt: [Starship]
- - Gestor de ventanas: [Plasma KDE][KDE Plasma ES]
+ - SO: Windows 10 / *Linux proximamente?*
+ - Terminal: Windows Terminal -> Git Bash
  - Editor: [Visual Studio Code][VSCode]
- - Lenguajes que uso: Java, C++, Python
+ - Lenguajes con los que trabajo: Java, C++, Python
