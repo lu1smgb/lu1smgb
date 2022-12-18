@@ -9,7 +9,7 @@
 
 # README.md
 
- - SO: Windows 10 / *Linux proximamente?*
+ - SO: Windows 10 / WSL
  - Terminal: Windows Terminal -> Git Bash
  - Editor: [Visual Studio Code][VSCode]
- - Lenguajes con los que trabajo: Java, C++, Python
+ - Lenguajes con los que trabajo: C++, Python
