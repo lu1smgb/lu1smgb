@@ -13,3 +13,4 @@
  - Terminal: Windows Terminal -> Git Bash
  - Editor: [Visual Studio Code][VSCode]
  - Lenguajes con los que trabajo: C++, Python
+  - Otros lenguajes que he tocado: Java, C, C#
