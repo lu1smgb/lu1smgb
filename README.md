@@ -11,14 +11,8 @@ fácilmente y para que cualquiera pueda echarles un ojo
 
 ## Lenguajes
 
-<img height="64" width="64" src="https://cdn.simpleicons.org/cplusplus">
-<img height="64" width="64" src="https://cdn.simpleicons.org/python/gold">
-<img height="64" width="64" src="images/java.png">
-<img height="64" width="64" src="https://cdn.simpleicons.org/c/00599C"><br>
-<img height="64" width="64" src="https://cdn.simpleicons.org/html5">
-<img height="64" width="64" src="https://cdn.simpleicons.org/css3">
-<img height="64" width="64" src="https://cdn.simpleicons.org/javascript">
-<img height="64" width="64" src="https://cdn.simpleicons.org/php"><br>
+<img height="64" width="64" src="https://cdn.simpleicons.org/cplusplus"><img height="64" width="64" src="https://cdn.simpleicons.org/python/gold"><img height="64" width="64" src="images/java.png"><img height="64" width="64" src="https://cdn.simpleicons.org/c/00599C"><br>
+<img height="64" width="64" src="https://cdn.simpleicons.org/html5"><img height="64" width="64" src="https://cdn.simpleicons.org/css3"><img height="64" width="64" src="https://cdn.simpleicons.org/javascript"><img height="64" width="64" src="https://cdn.simpleicons.org/php"><br>
 
 ## Bases de datos
 
