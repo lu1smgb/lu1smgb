@@ -16,19 +16,10 @@ fácilmente y para que cualquiera pueda echarles un ojo
 
 ### Los he usado mucho
 
-<img height="64" width="64" src="https://cdn.simpleicons.org/cplusplus">
-<img height="64" width="64" src="https://cdn.simpleicons.org/python/gold">
-<img height="64" width="64" src="images/java.png">
-<img height="64" width="64" src="https://cdn.simpleicons.org/git">
+<img height="64" width="64" src="https://cdn.simpleicons.org/cplusplus"> <img height="64" width="64" src="https://cdn.simpleicons.org/python/gold"> <img height="64" width="64" src="images/java.png"> <img height="64" width="64" src="https://cdn.simpleicons.org/git">
 <br>
 
 ### Los he probado / usado poco
 
-<img height="64" width="64" src="https://cdn.simpleicons.org/c/00599C">
-<img height="64" width="64" src="https://cdn.simpleicons.org/html5">
-<img height="64" width="64" src="https://cdn.simpleicons.org/css3">
-<img height="64" width="64" src="https://cdn.simpleicons.org/javascript">
-<img height="64" width="64" src="https://cdn.simpleicons.org/php">
-<img height="64" width="64" src="https://cdn.simpleicons.org/dart">
-<img height="64" width="64" src="https://cdn.simpleicons.org/mysql">
+<img height="64" width="64" src="https://cdn.simpleicons.org/c/00599C"> <img height="64" width="64" src="https://cdn.simpleicons.org/html5"> <img height="64" width="64" src="https://cdn.simpleicons.org/css3"> <img height="64" width="64" src="https://cdn.simpleicons.org/javascript"> <img height="64" width="64" src="https://cdn.simpleicons.org/php"> <img height="64" width="64" src="https://cdn.simpleicons.org/dart"> <img height="64" width="64" src="https://cdn.simpleicons.org/mysql">
 <br>
