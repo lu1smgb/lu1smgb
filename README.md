@@ -19,7 +19,7 @@ Aqui subo mis prácticas de la Universidad para tener un lugar donde almacenarla
 <h2 align="left">Tecnologias menos usadas / usada alguna vez</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,latex,php,flutter,lua,docker,django,mysql,astro&theme=dark" height="60" alt="secondary tech"  />
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,latex,php,flutter,lua,docker,django,mysql,astro,cs,unity&theme=dark" height="60" alt="secondary tech"  />
 </div>
 
 ###
