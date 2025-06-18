@@ -1,17 +1,15 @@
-<h1 align="center">Hola!</h1>
+<h1 align="center">Hola! 👋</h1>
 
 ###
 
-Llevo 6 años estudiando Ingeniería Informática en la Universidad de Granada (y los que me quedan)
-
-Aqui subo mis prácticas de la Universidad para tener un lugar donde almacenarlas y acceder a ellas fácilmente y para que cualquiera pueda echarles un ojo
+Soy estudiante de Ingeniería Informática en la Universidad de Granada y el año que viene acabo los estudios
 
 ###
 
 <h2 align="left">Tecnologias mas usadas</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,cpp,java,py,git,md,bash" height="60" alt="primary tech"  />
+  <img src="https://skillicons.dev/icons?i=vscode,c,cpp,java,py,git,md" height="60" alt="primary tech"  />
 </div>
 
 ###
@@ -19,32 +17,30 @@ Aqui subo mis prácticas de la Universidad para tener un lugar donde almacenarla
 <h2 align="left">Tecnologias menos usadas / usada alguna vez</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,latex,php,flutter,lua,docker,django,mysql,astro,cs,unity&theme=dark" height="60" alt="secondary tech"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,latex,php,flutter,lua,docker,django,mysql,astro,cs,unity&theme=dark" height="60" alt="secondary tech"  />
 </div>
 
 ###
 
-<h2 align="left">Asignaturas</h2>
+<h2 align="left">Repositorios de asignaturas</h2>
 
-- [SCD](https://github.com/lu1smgb/UGR-SCD)
-- [DDSI](https://github.com/lu1smgb/DDSI)
-- [SIBW](https://github.com/lu1smgb/SIBW) y [SIBW-Frontend](https://github.com/lu1smgb/SIBW-Frontend)
-- [DSD](https://github.com/lu1smgb/DSD)
-- [IG](https://github.com/lu1smgb/MC)
-- [MC](https://github.com/lu1smgb/MC) (analizador lexico)
-- [SG](https://github.com/lu1smgb/SG)
-- [ISE](https://github.com/lu1smgb/P1_DBA) (solo bitacora)
-- [P1_DBA](https://github.com/lu1smgb/P1_DBA) y [DBA](https://github.com/lu1smgb/DBA)
-- [NTP](https://github.com/lu1smgb/NTP)
-- [PPR](https://github.com/lu1smgb/PPR)
+- Mecanismos de exclusión mutua y fundamentos de MPI para [SCD](https://github.com/lu1smgb/UGR-SCD)
+- Implementacion de un sistema de informacion simple con Python y bases de datos para [DDSI](https://github.com/lu1smgb/DDSI)
+- Sistema web de científicos para [SIBW](https://github.com/lu1smgb/SIBW) y [SIBW-Frontend](https://github.com/lu1smgb/SIBW-Frontend)
+- Implementación de varias aplicaciones distribuidas para [DSD](https://github.com/lu1smgb/DSD)
+- Aplicacion de escritorio en C usando OpenGL para [IG](https://github.com/lu1smgb/MC)
+- Analizador léxico de correos electrónicos para [MC](https://github.com/lu1smgb/MC)
+- Aplicación web gráfica para [SG](https://github.com/lu1smgb/SG)
+- Bitacora de [ISE](https://github.com/lu1smgb/P1_DBA)
+- Desarrollo basado en agentes usando JADE para [P1_DBA](https://github.com/lu1smgb/P1_DBA) y [DBA](https://github.com/lu1smgb/DBA)
+- Programacion funcional en Java y Scala para [NTP](https://github.com/lu1smgb/NTP)
+- Programas de cómputo avanzado en CUDA y C con MPI para [PPR](https://github.com/lu1smgb/PPR)
 
 ###
 
-<h2 align="left">Otros repositorios</h2>
+<h2 align="left">Repositorios personales</h2>
 
 - [SFML_Conway](https://github.com/lu1smgb/SFML_Conway): Juego de la vida de Conway en C++
-- [Charroulette](https://github.com/lu1smgb/Charroulette): Mod de Balatro
-- [CharruoBot](https://github.com/lu1smgb/Charroulette): Bot de Discord en Python
 - Sitio web en Astro
 - Sistema web en Django
 
