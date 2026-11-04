@@ -11,7 +11,7 @@ Estoy centrado en el desarrollo Backend y en el diseño y desarrollo de sistemas
   <tr>
     <td>Lenguajes y frameworks 🛠️</td>
     <td>Bases de datos 💽</td>
-    <td>DevOps 📦</td>
+    <td>Despliegue 📦</td>
     <td>Otros 🖥️</td>
   </tr>
   <tr>
