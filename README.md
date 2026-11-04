@@ -2,9 +2,8 @@
 
 <h2 align="left">Mi nombre es Luis Miguel Guirado Bautista</h2>
 
-Soy ingeniero informático especializado en el diseño y desarrollo de software.
-Estoy centrado en el desarrollo Backend y en el diseño y desarrollo de sistemas de información,
-actualmente trabajando en mis propios proyectos.
+Soy ingeniero informático graduado por la Universidad de Granada, especializado en el diseño y desarrollo de software.
+Estoy centrado en el desarrollo Backend y en el diseño y desarrollo de sistemas de información, actualmente trabajando en mis propios proyectos.
 
 <h2 align="left">Con lo que suelo trabajar</h2>
 
