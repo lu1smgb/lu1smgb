@@ -56,7 +56,7 @@ Estoy centrado en el desarrollo Backend y en el diseño y desarrollo de sistemas
   <li>
     <p><b>Trabajo Fin de Grado: Entorno virtual gamificable para la interacción grupal</b> ➡️ <a href="https://github.com/lu1smgb/TFG">Enlace</a></p>
     <p>
-      El desarrollo de este proyecto de varios meses combina desarrollo de videojuegos en CSharp usando Unity como motor de juego,
+      El desarrollo de este proyecto de varios meses combina desarrollo de videojuegos en C# usando Unity como motor de juego,
       desarrollo backend en Python, desarrollo de chatbots usando LLM locales con capacidad de generar respuestas
       a medida mediante la implementación de un sistema RAG con LangChain y ChromaDB e integración con servicios de terceros
       como Agora Video Call como proveedor de infraestructura para el sistema de videollamadas,
