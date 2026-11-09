@@ -16,8 +16,8 @@ Estoy centrado en el desarrollo Backend y en el diseño y desarrollo de sistemas
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,fastapi,django" /><br>
-      <img src="https://skillicons.dev/icons?i=java" />
+      <img src="https://skillicons.dev/icons?i=python,fastapi" /><br>
+      <img src="https://skillicons.dev/icons?i=java,astro" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&perline=3" />
@@ -34,7 +34,7 @@ Estoy centrado en el desarrollo Backend y en el diseño y desarrollo de sistemas
 <h3>También he trabajado con...</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp,cs,scala,flutter,bash,bitbucket,supabase,unity" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp,cs,scala,flutter,django,bash,bitbucket,supabase,unity" />
 </p>
 
 <h2>Mi experiencia profesional</h2>
